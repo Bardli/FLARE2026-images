@@ -1,0 +1,208 @@
+[
+  {
+    "image": "FLARE26-awards/1.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/1.png",
+    "task": "Task 1",
+    "team": "AIDA RAO Mayo Clinic",
+    "paper_title": "SESeg-CT: Sparse Ensembles for Automatic and RECIST-Guided Pan-Cancer Lesion Segmentation in CT Images",
+    "code_url": "https://github.com/xinformatics/miccaiflare2026task1",
+    "paper_url": "https://openreview.net/forum?id=sbrp9WtYTl",
+    "award": "Outstanding Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/2.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/2.png",
+    "task": "Task 1",
+    "team": "Rmh_ai_hub",
+    "paper_title": "Development and Deployment of RECIST-Guided CT Pan-Cancer 3D Lesion Segmentation for Radiology Workflows",
+    "code_url": "https://github.com/antoniocandito/Recist2Seg_OsiriXgrpc/",
+    "paper_url": "https://openreview.net/forum?id=2E53svXdTe",
+    "award": "Outstanding Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/3.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/3.png",
+    "task": "Task 1",
+    "team": "team214",
+    "paper_title": "From RECIST Lines to Volumes: Lightweight 3D Lesion Segmentation with Ball-Prior Iterative Refinement",
+    "code_url": "https://github.com/YaliShanda985/MICCAI-FLARE-2026-Task1-Subtask2",
+    "paper_url": "https://openreview.net/forum?id=JYnUy4TNI5",
+    "award": "Meritorious Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/4.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/4.png",
+    "task": "Task 1",
+    "team": "longkongmedai",
+    "paper_title": "RECIST-Guided 3D Lesion Segmentation on CPU: A Lightweight Prompted Segmentation Approach for Pan-cancer CT",
+    "code_url": "https://github.com/B664577/flare26-t1-recist-seg",
+    "paper_url": "https://openreview.net/forum?noteId=tWeoPHX0Hl",
+    "award": "Honorable Mention Award"
+  },
+  {
+    "image": "FLARE26-awards/5.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/5.png",
+    "task": "Task 1",
+    "team": "PANSEG_SPI26",
+    "paper_title": "Coarse-Spacing nnU-Net with Tversky Loss for Pan-Cancer CT Segmentation",
+    "code_url": "https://github.com/lophy95/PANSEG_SPI26/tree/main",
+    "paper_url": "https://openreview.net/forum?id=Os4tClciJv",
+    "award": "Outstanding Winner Award",
+    "certificate_team": "PANSEG_MSK",
+    "note": "Certificate: PANSEG_MSK; submission: PANSEG_SPI26. Matched by identical authors and paper title."
+  },
+  {
+    "image": "FLARE26-awards/6.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/6.png",
+    "task": "Task 1",
+    "team": "jehb4ik",
+    "paper_title": "PANTHER: PAN-cancer CT Segmentation with Two-tier Healthy-scan Ensemble Rejection",
+    "code_url": "https://github.com/Jehb4ik/PANTHER-FLARE2026",
+    "paper_url": "https://openreview.net/attachment?id=w9f1fdcYIb&name=pdf",
+    "award": "Meritorious Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/7.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/7.png",
+    "task": "Task 1",
+    "team": "Nucleo Research",
+    "paper_title": "Pan-cancer Lesion Segmentation in CT under Heterogeneous and Partial Annotation",
+    "code_url": "https://github.com/Nucleo-Research/omnilesion",
+    "paper_url": "https://openreview.net/forum?id=q7GnjovcPJ",
+    "award": "Best Pan-cancer Segmentation Accuracy Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/8.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/8.png",
+    "task": "Task 1",
+    "team": "AIDA RAO Mayo Clinic",
+    "paper_title": "SESeg-CT: Sparse Ensembles for Automatic and RECIST-Guided Pan-Cancer Lesion Segmentation in CT Images",
+    "code_url": "https://github.com/xinformatics/miccaiflare2026task1",
+    "paper_url": "https://openreview.net/forum?id=sbrp9WtYTl",
+    "award": "Honorable Mention Award"
+  },
+  {
+    "image": "FLARE26-awards/9.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/9.png",
+    "task": "Task 1",
+    "team": "Nucleo Research",
+    "paper_title": "Pan-cancer Lesion Segmentation in CT under Heterogeneous and Partial Annotation",
+    "code_url": "https://github.com/Nucleo-Research/omnilesion",
+    "paper_url": "https://openreview.net/forum?id=q7GnjovcPJ",
+    "award": "Honorable Mention Award"
+  },
+  {
+    "image": "FLARE26-awards/10.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/10.png",
+    "task": "Task 2",
+    "team": "renjuncai",
+    "paper_title": "Leveraging Segmentation Representations for Efficient Classification: A Self-Configuring Framework based on nnU-Net",
+    "code_url": "https://github.com/cairenjun916-oss/FLARE2026TASK2",
+    "paper_url": "https://openreview.net/forum?id=QgYSRvGu9X",
+    "award": "Outstanding Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/11.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/11.png",
+    "task": "Task 2",
+    "team": "acce",
+    "paper_title": "A Self-Configuring Multi-Task Pipeline for Joint 3D Medical Image Segmentation and Classification in AutoMSC",
+    "code_url": "https://github.com/dowst111/AutoMSC-acce",
+    "paper_url": "https://openreview.net/group?id=MICCAI.org/2026/Challenge/FLARE#tab-recent-activity",
+    "award": "Meritorious Winner Award",
+    "paper_link_type": "group",
+    "note": "The submitted OpenReview URL points to the challenge group, not an individual paper."
+  },
+  {
+    "image": "FLARE26-awards/12.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/12.png",
+    "task": "Task 2",
+    "team": "TheFlares",
+    "paper_title": "Evaluating Self-Configuring Multi-Task Learning for Joint Segmentation and Case-Level Classification of Heterogeneous 3D Medical Images",
+    "code_url": "https://github.com/hazrad-code/MICCAI-FLARE-2026-Task-2-AutoMSC-Challenge-by-Team-TheFlares",
+    "paper_url": "https://openreview.net/forum?id=tXb1bqy3vU",
+    "award": "Meritorious Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/13.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/13.png",
+    "task": "Task 2",
+    "team": "longkongmedai",
+    "paper_title": "Self-Configured Joint Segmentation and Classification for Glioma MRI: A Class-Weighted Multi-Task nnU-Net Approach",
+    "code_url": "https://github.com/B664577/flare26-t2-automsc",
+    "paper_url": "https://openreview.net/forum?noteId=LtEDUhuTEn",
+    "award": "Honorable Mention Award"
+  },
+  {
+    "image": "FLARE26-awards/14.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/14.png",
+    "task": "Task 2",
+    "team": "AIDA RAO Mayo Clinic",
+    "paper_title": "Joint 3D Segmentation and Clinical Classification Across Heterogeneous Imaging Tasks",
+    "code_url": "https://github.com/xinformatics/miccaiflare2026task2",
+    "paper_url": "https://openreview.net/forum?id=WOPVwF7ccv",
+    "award": "Honorable Mention Award"
+  },
+  {
+    "image": "FLARE26-awards/15.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/15.png",
+    "task": "Task 3",
+    "team": "AIMHI",
+    "paper_title": "Aligning a 3D CT Vision-Language Model with Task Structure: Prompt Fusion, Chain-Aware Calibration, and Coverage-Complete Reporting",
+    "code_url": "https://github.com/hwm31/FLARE-2026-Task-3-3D-Team-AIMHI",
+    "paper_url": "https://openreview.net/forum?id=Kyz5l5KVIu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DMICCAI.org%2F2026%2FChallenge%2FFLARE%2FAuthors%23your-submissions)",
+    "award": "Outstanding Winner Award",
+    "track": "3D"
+  },
+  {
+    "image": "FLARE26-awards/16.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/16.png",
+    "task": "Task 3",
+    "team": "Hexapus",
+    "paper_title": "Multimodal Medical Image Parsing with Task-Specific Low-Rank Adapters",
+    "code_url": "https://github.com/TahaSabir0/FLARE26-Hexapus",
+    "paper_url": "https://openreview.net/forum?id=3i4CYnXhig&noteId=3i4CYnXhig",
+    "award": "Outstanding Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/17.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/17.png",
+    "task": "Task 3",
+    "team": "lightbridge",
+    "paper_title": "MedParse: A Task-Specialized Vision-Language Framework for Medical Image Parsing",
+    "code_url": "https://github.com/tangaii/MedParse",
+    "paper_url": "https://openreview.net/forum?id=ExW7VanPJs",
+    "award": "Meritorious Winner Award"
+  },
+  {
+    "image": "FLARE26-awards/18.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/18.png",
+    "task": "Task 3",
+    "team": "AIMHI",
+    "paper_title": "Modality-Wise Vision and Task-Wise Language Adapters for Multi-Task Medical Image Parsing",
+    "code_url": "https://github.com/BluG02/FLARE-2026-Task-3-2D-Team-AIMHI.git",
+    "paper_url": "https://openreview.net/forum?id=guQjhKJrvs&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DMICCAI.org%2F2026%2FChallenge%2FFLARE%2FAuthors%23your-submissions)",
+    "award": "Meritorious Winner Award",
+    "track": "2D"
+  },
+  {
+    "image": "FLARE26-awards/19.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/19.png",
+    "task": "Task 3",
+    "team": "LIST-SEU",
+    "paper_title": "Two-Stage Mixture-of-LoRA for Multi-Task Medical Vision-Language Learning",
+    "code_url": "https://github.com/YuanYL03/MICCAI-FLARE-2026-Challenge-Task3-2D",
+    "paper_url": "https://openreview.net/forum?id=TQRLbbhz7w&noteId=TQRLbbhz7w",
+    "award": "Honorable Mention Award"
+  },
+  {
+    "image": "FLARE26-awards/20.png",
+    "image_url": "https://raw.githubusercontent.com/Bardli/FLARE2026-images/main/FLARE26-awards/20.png",
+    "task": "Task 3",
+    "team": "Medcat",
+    "paper_title": "Medcat: Task-Routed and Source-Selective Adaptation of a Single Medical Vision-Language Model",
+    "code_url": "https://github.com/HuiLin0220/Medcat",
+    "paper_url": "https://openreview.net/forum?id=nR9SL6kILL&noteId=nR9SL6kILL",
+    "award": "Honorable Mention Award"
+  }
+]
